@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+Momentum KCH is a not-for-profit project that aims to push Kuching forward through three areas: arts, entrepreneurship and community.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
