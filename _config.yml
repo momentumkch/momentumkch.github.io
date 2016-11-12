@@ -16,7 +16,7 @@
 title: Momentum KCH
 email: momentumkch@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-Momentum KCH is a not-for-profit project that aims to push Kuching forward through three areas - arts, entrepreneurship and community.
+# Momentum KCH is a movement that aims to push Kuching forward through three areas - arts, entrepreneurship and community.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://momentumkch.co" # the base hostname & protocol for your site
 twitter_username: momentumkch
